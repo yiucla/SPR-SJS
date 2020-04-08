@@ -4,9 +4,7 @@ Liu, Y., Xu, J., & Li, G. Sure joint feature screening in nonparametric transfor
 
 Description:
 
-This program implements the SPR-SJS joint screening method for DLBCL data (stored in matlab.mat) described in Section 4 of the paper.
-
-Usage: Run the MAIN.m function.
+This program implements the SPR-SJS joint screening method of the paper.
 
 Main function: SPR-SJS(X,Y,delta,beta_ini,k)
 
