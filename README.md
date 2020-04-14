@@ -1,6 +1,6 @@
 # SPR-SJS
 
-Liu, Y., Xu, J., & Li, G. Sure joint feature screening in nonparametric transformation model with right censored data.
+Liu, Y., Xu, J., & Li, G. Sure joint feature screening in nonparametric transformation model for right censored data.
 
 Description:
 
